@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7T12xBJ8A+7WnyS7d5fhl04ckYuiWF0RxmLgjWvkcjDyc74GrOSEBhRGbd4wwJ2N/deGwVTL42PPdPii3rEQGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Илья\\source\\repos\\Заданиие 2.1\\Заданиие 2.1\\Заданиие 2.1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Илья\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
