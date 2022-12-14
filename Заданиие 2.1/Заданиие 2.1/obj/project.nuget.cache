@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7T12xBJ8A+7WnyS7d5fhl04ckYuiWF0RxmLgjWvkcjDyc74GrOSEBhRGbd4wwJ2N/deGwVTL42PPdPii3rEQGw==",
+  "dgSpecHash": "PZs3w3QVrq+WdJT0RGycGbSfrux/gF3F3QEjbD7r+IpgBGv2hDP8L05OuLlsDrJklznOqjtv3kRE3YhCe6knvw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Илья\\source\\repos\\Заданиие 2.1\\Заданиие 2.1\\Заданиие 2.1.csproj",
+  "projectFilePath": "C:\\Users\\Илья\\Source\\Repos\\LB-OOP\\Заданиие 2.1\\Заданиие 2.1\\Заданиие 2.1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Илья\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
   ],

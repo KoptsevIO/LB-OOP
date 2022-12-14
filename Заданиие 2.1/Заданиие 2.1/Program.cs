@@ -22,4 +22,6 @@ for (int i = 1; ; i++)
 
 Console.WriteLine($"\n Сумма первых {n} положительных " +
     $"+ нечётных чисел = {sum}");
+
 // Hello, world!
+// Popitka 3
