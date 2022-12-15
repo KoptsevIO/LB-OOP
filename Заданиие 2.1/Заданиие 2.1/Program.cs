@@ -23,5 +23,9 @@ for (int i = 1; ; i++)
 Console.WriteLine($"\n Сумма первых {n} положительных " +
     $"+ нечётных чисел = {sum}");
 
-// Hello, world!
-// Popitka 3
+var people = new List<string>()
+{
+    new Person("Person_1"),
+    new Person("Person_2"),
+    new Person("Person_3")
+};
