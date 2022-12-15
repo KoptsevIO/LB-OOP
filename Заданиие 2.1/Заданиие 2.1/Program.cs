@@ -25,3 +25,8 @@ Console.WriteLine($"\n Сумма первых {n} положительных " 
 
 var people = new List<string>() {"Person_0", "Person_1", "Person_2"};
 Console.WriteLine(people[0]);
+
+foreach(int i in people)
+{
+    Console.WriteLine(i);
+}
