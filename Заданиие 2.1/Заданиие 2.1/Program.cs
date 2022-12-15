@@ -23,9 +23,4 @@ for (int i = 1; ; i++)
 Console.WriteLine($"\n Сумма первых {n} положительных " +
     $"+ нечётных чисел = {sum}");
 
-var people = new List<string>()
-{
-    new Person("Person_1"),
-    new Person("Person_2"),
-    new Person("Person_3")
-};
+var people = new List<string>() {"Person_0", "Person_1", "Person_2"};
